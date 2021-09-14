@@ -1,0 +1,43 @@
+Internal ID Variant (Do Not Edit),Category,SKU,Items Name (Do Not Edit),ecommerce item? (Yes/No),Pre-order ? (Yes/No),Processing days,Weight (gm),Length (cm),Width (cm),Height (cm),Condition,Brand Name,Variant name,Basic - Price,Image 1 (for Online Store),Image 2 (for Online Store),Image 3 (for Online Store),Image 4 (for Online Store),Image 5 (for Online Store),Image 6 (for Online Store),Image 7 (for Online Store),Image 8 (for Online Store),Image 9 (for Online Store),Image 10 (for Online Store),Image 11 (for Online Store),Image 12 (for Online Store),Dine In - Price,Go Food - Price,Takeaway - Price,Online - Price,myKAHA - Price,GoStore - Price,In Stock,Track Stock,Track Alert,Stock Alert,Track Cost,Cost Amount
+75603366,Edisi 1 Liter,1laren,(PROMO) 1L Aren,No,No,0,,,,,,,,,,,,,,,,,,,,,65000,78000,65000,65000,,65000,9991,Yes,Yes,0,Yes,48286
+75603369,Edisi 1 Liter,1lcaramel,(PROMO) 1L Caramel,No,No,0,,,,,,,,,,,,,,,,,,,,,75000,90000,75000,75000,,75000,9990,Yes,Yes,0,Yes,56286
+75603393,Edisi 1 Liter,CharcoalLiter,(PROMO) 1L Charcoal Latte,No,No,0,,,,,,,,,,,,,,,,,,,,,85000,100000,100000,100000,,85000,9995,Yes,Yes,0,Yes,70000
+75603385,Edisi 1 Liter,1lchoco,(PROMO) 1L Chocolate,No,No,0,,,,,,,,,,,,,,,,,,,,,75000,90000,75000,75000,,75000,9992,Yes,Yes,0,Yes,44537
+75603377,Edisi 1 Liter,1lredvelvet,(PROMO) 1L Red Velvet,No,No,0,,,,,,,,,,,,,,,,,,,,,75000,90000,75000,75000,,75000,9999,Yes,Yes,0,Yes,35500
+75603362,Edisi 1 Liter,1lwildmint,(PROMO) 1L Wild Mint,No,No,0,,,,,,,,,,,,,,,,,,,,,75000,90000,75000,75000,,75000,9991,Yes,Yes,0,Yes,56286
+75603380,Cold Coffee,escappu1,(PROMO) Iced Cappuccino,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,20000,20000,,26500,9998,Yes,Yes,0,Yes,12500
+75836175,Edisi 1 Liter,1Lmtcha,1L Matcha Latte,No,No,0,,,,,,,,,,,,,,,,,,,,,85000,98000,85000,85000,98000,98000,994,Yes,Yes,0,Yes,45000
+75603384,Hot Coffee,amer1,Americano,No,No,0,,,,,,,,,,,,,,,,,,,,,12000,14500,10000,10000,,14500,9993,Yes,Yes,0,Yes,6000
+75603367,Hot Coffee,cappu1,Cappuccino,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,20000,20000,,26500,9985,Yes,Yes,0,Yes,11500
+75603378,Hot Coffee,CBHOT1,Crème Brûlée,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,20000,20000,24000,26500,9995,Yes,Yes,0,Yes,13500
+75603359,Hot Coffee,esp2,Doppio,No,No,0,,,,,,,,,,,,,,,,,,,,,15000,18000,15000,15000,,18000,9999,Yes,Yes,0,Yes,7410
+75603390,Mocktails,damascus,El Damascus,No,No,0,,,,,,,,25000,,,,,,,,,,,,,,,,,,,9984,Yes,Yes,0,Yes,15000
+75603358,Signature,sign1,El Inocente,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,24000,20000,20000,20000,24000,9984,Yes,Yes,0,Yes,14000
+75603387,Signature,Charcoal01,Especial Carbon,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,22000,22000,,26500,9984,Yes,Yes,0,Yes,11500
+75603370,Hot Coffee,esp1,Espresso,No,No,0,,,,,,,,,,,,,,,,,,,,,10000,12000,10000,10000,,12000,9997,Yes,Yes,0,Yes,5000
+75790263,Main Course,tender1,Filete De Lomo,No,No,0,,,,,,,,,,,,,,,,,,,,,60000,78000,60000,60000,60000,60000,995,Yes,Yes,0,Yes,51000
+75790224,Main Course,steakchic1,Filete De Pollo,No,No,0,,,,,,,,,,,,,,,,,,,,,38000,50000,38000,38000,38000,38000,993,Yes,Yes,0,Yes,32000
+75603361,Non Coffee,coklatpanas1,Hot Chocolate,No,No,0,,,,,,,,,,,,,,,,,,,,,20000,24000,18000,18000,,24000,9996,Yes,Yes,0,Yes,6500
+75603368,Non Coffee,hotRV1,Hot Red Velvet,No,No,0,,,,,,,,,,,,,,,,,,,,,20000,24000,18000,18000,,24000,9999,Yes,Yes,0,Yes,9700
+75603373,Cold Coffee,esamer1,Iced Americano,No,No,0,,,,,,,,,,,,,,,,,,,,,12000,14500,10000,10000,,14500,9981,Yes,Yes,0,Yes,6000
+75603372,Non Coffee,escoklat,Iced Chocolate,No,No,0,,,,,,,,,,,,,,,,,,,,,20000,24000,22000,18000,,24000,9984,Yes,Yes,0,Yes,9700
+75603375,Cold Coffee,aren1,Iced Coffee Aren,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,25000,20000,20000,,25000,9964,Yes,Yes,0,Yes,13500
+75603374,Cold Coffee,eska2,Iced Coffee Caramel,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,25000,20000,20000,,25000,9981,Yes,Yes,0,Yes,13500
+75603379,Cold Coffee,eska3,Iced Coffee Mint,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,25000,20000,20000,,25000,9992,Yes,Yes,0,Yes,13500
+75603381,Non Coffee,esrv1,Iced Red Velvet,No,No,0,,,,,,,,,,,,,,,,,,,,,20000,24000,18000,18000,,24000,9985,Yes,Yes,0,Yes,9700
+75603360,Manual Brewing,japan1,Japanese Iced Coffee,No,No,0,,,,,,,,,,,,,,,,,,,,,18000,0,18000,18000,,,9996,Yes,Yes,0,Yes,14625
+75603371,Hot Coffee,latte1,Latte,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,20000,20000,,26500,9988,Yes,Yes,0,Yes,11500
+75603388,Signature,Charcoal02,Latte Toxico,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,22000,22000,,26500,9999,Yes,Yes,0,Yes,11500
+75603383,Cold Coffee,lemon221,Lemonicano,No,No,0,,,,,,,,,,,,,,,,,,,,,15000,18000,15000,15000,15000,18000,9997,Yes,Yes,0,Yes,8000
+75603394,Non Coffee,mtch001,Matcha Latte,No,No,0,,,,,,,,,,,,,,,,,,,,,20000,22000,20000,20000,22000,20000,9978,Yes,Yes,0,Yes,10500
+75603363,Hot Coffee,mocca1,Moccacino,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,26500,20000,20000,,26500,9998,Yes,Yes,0,Yes,13000
+75603391,Mocktails,namaste,Namaste,No,No,0,,,,,,,,25000,,,,,,,,,,,,,,,,,,,9999,Yes,Yes,0,Yes,15000
+75603365,Signature,sign2,Sangre FRÍA,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,24000,20000,20000,20000,24000,9998,Yes,Yes,0,Yes,12500
+75603389,Mocktails,santoria,Santoria,No,No,0,,,,,,,,25000,,,,,,,,,,,,,,,,,,,9999,Yes,Yes,0,Yes,15000
+75790297,Main Course,sirloin1,Solomillo,No,No,0,,,,,,,,,,,,,,,,,,,,,60000,78000,60000,60000,60000,60000,999,Yes,Yes,0,Yes,51000
+75603392,Mocktails,sundaymorn,Sunday Morning,No,No,0,,,,,,,,25000,,,,,,,,,,,,,,,,,,,9996,Yes,Yes,0,Yes,15000
+75603382,Signature,sign3,Tierra Del Cielo,No,No,0,,,,,,,,,,,,,,,,,,,,,22000,24000,20000,20000,20000,24000,9994,Yes,Yes,0,Yes,13500
+75603376,Manual Brewing,tubruk1,Tubruk,No,No,0,,,,,,,,,,,,,,,,,,,,,12000,0,10000,10000,,,9998,Yes,Yes,0,Yes,6000
+75603364,Manual Brewing,v60,V60,No,No,0,,,,,,,,,,,,,,,,,,,,,18000,0,18000,18000,,,9996,Yes,Yes,0,Yes,14625
+75603357,Manual Brewing,viet1,Vietnam Drip,No,No,0,,,,,,,,,,,,,,,,,,,,,18000,0,18000,18000,,,9995,Yes,Yes,0,Yes,7615
+76862214,Main Course,wedges01,Wedges Potato,No,No,0,,,,,,,,,,,,,,,,,,,,,25000,28000,25000,25000,28000,28000,9996,Yes,Yes,0,Yes,23000
